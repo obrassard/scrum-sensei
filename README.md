@@ -38,7 +38,7 @@ On veut avoir plus de user story de prête que ce qu’on pense compléter dans 
   - Choisir la durée des sprints
   - Préparer une liste de tâche générique
   - Défniir qui est le Scrum master
-  - Définir la vélocité moyenne de l'équipe, c'est à dire le nombre de [`story points`](#étapes-de-la-planif-de-sprint) complétés en moyenne par l'équipe
+  - Définir la vélocité moyenne de l'équipe, c'est à dire le nombre de [`story points`](#Étapes-de-la-planif-de-sprint) complétés en moyenne par l'équipe
 
 ## 2. Planif de Sprint
 - Présentation au [PO](#product-owner) des premières user stories du backlog, pour confirmer l’approbation des [conditions de satisfaction](#condition-de-satisfaction-cs) par le PO et confirmer leur importance au yeux du client.
@@ -121,6 +121,8 @@ Courte rencontre quotidienne entre les membres de l’équipe, faite **debout**,
     - Les nouveaux ajouts fonctionnent avec les autres données ?
   - Tests de charge
     - Le système peut-il supporter la quantité de données potentielle et le nombre de personnes qui utiliserons l’application en même temps ?
+    
+:bulb: Voir la [section sur les tests](#tests-du-produit)
 
 ----------
 
