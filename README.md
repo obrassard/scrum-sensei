@@ -1,59 +1,61 @@
 # *SCRUM-Sensei* : Introduction à SCRUM et à l'analyse d’applications
 
->Scrum est une méthode agile dédiée à la « gestion de projet ». Cette méthode de gestion, à pour objectif d’améliorer la productivité de son équipe. Elle est constituées de différentes *activités* qui s'enchainent en cycles itératifs.
+>Scrum est une méthode [agile](#les-12-principes-agiles-) dédiée à la « gestion de projet ». Cette méthode de gestion, à pour objectif d’améliorer la productivité de son équipe. Elle est constituées de différentes *activités* qui s'enchainent en cycles itératifs.
 
 Voici la description des différentes activités d'un cycle :
 
 ##  1. Sprint 0 / Grooming : préparation du backlog de produit
 
-Le backlog de produit est une liste de US classées en **ordre de priorité (selon le PO),** représentant l’ensemble des fonctions à implémenter afin de répondre au besoin du client, Modifiable tout au long du processus.
+Le backlog de produit est une liste de [User Stories](#une-user-story-cest-quoi-) classées en **ordre de priorité (selon la demande du [PO](#product-owner))**  et représentant **l’ensemble des fonctions à implémenter afin de répondre au besoin du client**. Le backlog de produit est modifiable tout au long du processus.
 
 Les éléments les plus prioritaires devraient avoir plus de détails (description, conditions, storypoints), tant qu’une US ne fait pas partie du sprint courant elle peut être modifiée ou reclassée.
 
-On veut avoir plus de user story de prête que ce qu’on pense compléter dans les sprint actuels. On souhaite toujours avoir 3 à 4 sprints d’avance (calculable par la vélocité moyenne)
+On veut avoir plus de user story de prête que ce qu’on pense compléter dans les [sprints](#3-sprint-) actuels. On souhaite toujours avoir 3 à 4 sprints d’avance (calculable par la vélocité moyenne)
 
 
 #### Étapes et artéfacts
-:bulb: Voir la section artéfacts
+:bulb: [Voir la section artéfacts](#biens-livrables-atréfacts-de-la-méthode-scrum)
 
 1. **Grooming** (maintenance du backlog de produit)
-  - Fractionnement des épics / US
-  - Préparation des US pour les prochains sprints pré-évaluées SMART & INVEST
-  - *Pourquoi faire du grooming?*
+  - Fractionnement des épics / [User-stories]((#une-user-story-cest-quoi-)
+  - Préparation des US pour les prochains sprint
+  
+  *Pourquoi faire du grooming?*
     - Être prêts pour la planif de sprint
     - Clarifier et comprendre les règles d’affaires et les conditions de satisfaction
     - Valider que nos priorités sont à la bonne place
 
 
 2. **Analyse des besoins**, analyse textuelle → Rencontre avec le client
-3. Préparation du diagramme de **Concept Fondamentaux** (CFC)
-4. Préparation du **Glossaire**
-5. Définission des *Acteurs* et de leurs rôles
+3. Préparation du [diagramme de **Concept Fondamentaux** (CFC)](#diagramme-des-concepts-fondamentaux-)
+4. Préparation du [**Glossaire**](#glossaire-)
+5. Définission des [*Acteurs* et de leurs rôles](#-liste-des-acteurs-et-des-intervenants-)
 
 **Le sprint 0 comprend aussi l’organisation de l’équipe scrum elle même**
 
-  - Composer l’équipe
+  - Composition de l’équipe
   - Choix et installation des logiciel
-  - Duré des sprints ?
-  - Liste de tâche générique
-  - Qui est Scrum master
-  - Définir la vélocité
+  - Choisir la durée des sprints
+  - Préparer une liste de tâche générique
+  - Défniir qui est le Scrum master
+  - Définir la vélocité moyenne de l'équipe, c'est à dire le nombre de [`story points`](#étapes-de-la-planif-de-sprint) complétés en moyenne par l'équipe
 
 ## 2. Planif de Sprint
-- Présentation au PO des premières stories du backlog, pour confirmer l’approbation des  conditions de satisfaction par le PO et confirmer leur importance au yeux du client.
+- Présentation au [PO](#product-owner) des premières user stories du backlog, pour confirmer l’approbation des [conditions de satisfaction](#condition-de-satisfaction-cs) par le PO et confirmer leur importance au yeux du client.
 
-- Sélection des user stories à inclure dans le **backlog de sprint,** c’est à dire la liste des user stories qui devront être complétées dans la durée du sprint et leur assignation entres les membres de l’équipe
+- Sélection des user stories à inclure dans le **backlog de sprint**, c’est à dire la liste des user stories qui devront être complétées dans la durée du sprint et leur assignation entres les membres de l’équipe
 
 - Définition de l’objectif du sprint
 
-**Étapes de la planif de sprint:**
+#### Étapes de la planif de sprint:
 
 1. Lire les US une par une en présence du PO
-2. Vote des poids (storypoints) et argumentations
-3. Second vote si nécéssaire
+2. Voter les poids (story points) et argumentations
+  > Les storypoints sont des notes (1, 2, 3, 5, 8, 13 ...) assignées à chacunes des US, qui permettent de les comparer entre elles, une US de 5 serait en théorie plus complexe qu'un US de 3 
+3. L'équipe fait un second vote si nécéssaire pour évaluer le nombre de storypoints
 4. Construire le backlog de sprint
 5. Définir l’objectif de sprint
-6. Définition des sous tâches des US (SMART)
+6. Définition des [sous tâches des US](#%EF%B8%8F-définition-des-tâches)
 
 
 ## 3. Sprint 🏃
@@ -71,7 +73,6 @@ Courte rencontre quotidienne entre les membres de l’équipe, faite **debout**,
 
 - Présenter le travail **complété** vs le travail restant
 - Précision des objectifs de la journée et des difficultés rencontrées
-
 
     1. Qu’est-ce qui a été fait ?
     2. Qu’est ce qui va être fait?
@@ -98,15 +99,14 @@ Courte rencontre quotidienne entre les membres de l’équipe, faite **debout**,
 
 Ça ne touche jamais le projet en tant que tel, mais **seulement la gestion d’équipe..** Donc les logiciels, les mode de fonctionnement, les durées, horaires, etc..
 
-
     1. Qu’est-ce qui c’est bien passé durant le sprint ?
     2. Qu’est-ce qui à mal été dans le sprint ?
     3. Qu’est-ce qu’on doit améliorer pour le prochain sprint ?
 
-À l'aide de ces 3 question, l'équipe établi un **plan d'amélioration**
+À l'aide de ces 3 questions, l'équipe établi un **plan d'amélioration**
 
 ## 6. Sprint de release
-- Fournir un produit fonctionnel à l’utilisateur (Artefact de livraison)
+- Fournir un produit fonctionnel à l’utilisateur
 
 - Créer ou mettre a jour le guide utilisateur (patch note)
 
@@ -114,7 +114,7 @@ Courte rencontre quotidienne entre les membres de l’équipe, faite **debout**,
 
 - **On ne devrait pas faire de nouveau développement dans le sprint de release**
 
-Tests à affaire avant la release (au minimum) :
+#### Tests à affaire avant la release (au minimum) :
   - Tests de regression
     - Est-ce que ce qui fonctionnais fonctionne toujours ?
   - Tests d'intégration
@@ -124,7 +124,7 @@ Tests à affaire avant la release (au minimum) :
 
 ----------
 
-# Rôles du procéssus SCRUM
+# Rôles au sein du procéssus SCRUM
 
 ## Équipe Scrum
 
@@ -136,7 +136,7 @@ Tests à affaire avant la release (au minimum) :
   - Tous les membres doivent assister à toutes les activités
   - Elle est auto-organisée sur une base volontaire(qqun se porte volontaire pour faire une tâche)
 
-  #### Qualités de l’équipe scrum
+    #### Qualités de l’équipe scrum
     - Intensément collaborative
     - Constructive dans sa critique
     - Créative et innovatrice
@@ -157,7 +157,7 @@ Tests à affaire avant la release (au minimum) :
 - Fait le suivi des accomplissements
 - Oriente les discussions vers les objectifs
 
- #### Qualités
+    #### Qualités
     - PR, Leader positif
     - Gardien du processus
     - Retirer les blocages
@@ -234,11 +234,13 @@ Une bonne User Story (US) devrait respecter les critères de l'acronyme INVEST:
 :bulb: **Lorsque le récit utilisateur ne respecte pas les conditions INVEST, c’est souvent parce que cette dernière peut-être fractionnée en plusieurs plus petite US**
 
 ## Une US est composée de trois élément (3C)
-| Élément | Explication |
-| --- | --- |
-| **Carte**        | Brève description (*En tant que... je veux .. afin de..*)                                                                 
-| **Conversation** | Information plus détaillée, Discussion avec l’équipe, le PO et les testeurs                                                                                             |
-| **Confirmation** | **Partie la plus importante** : Comprend les *conditions de satisfaction*, c'est à dire les critères de test pour assurer la complétude et l’acceptation de la US.<br><br> Les condition de satisfaction doivent être ***quantifiable et précises*** |
+
+| Critère | Explication |
+| --- | --- |
+| **Carte**  | Brève description (*En tant que... je veux .. afin de..*) |
+| **Conversation**  | Information plus détaillée, discussion avec l’équipe, le PO et les testeurs |
+| **Confirmation**  | **Partie la plus importante** : Comprend les *conditions de satisfaction*, c'est à dire les critères de test pour assurer la complétude et l’acceptation de la US. Les condition de satisfaction doivent être ***quantifiable et précises*** |
+
 
 ## Priorité des Users-Stories
 
