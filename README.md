@@ -12,9 +12,9 @@ Les éléments les plus prioritaires devraient avoir plus de détails (descripti
 
 On veut avoir plus de user story de prête que ce qu’on pense compléter dans les [sprints](#3-sprint-) actuels. On souhaite toujours avoir 3 à 4 sprints d’avance (calculable par la vélocité moyenne)
 
+**Étapes et artéfacts**
 
-#### Étapes et artéfacts
-:bulb: [Voir la section artéfacts](#biens-livrables-atréfacts-de-la-méthode-scrum)
+💡 [Voir la section artéfacts](#biens-livrables-atréfacts-de-la-méthode-scrum)
 
 1. **Grooming** (maintenance du backlog de produit)
   - Fractionnement des épics / [User-stories]((#une-user-story-cest-quoi-)
@@ -24,7 +24,6 @@ On veut avoir plus de user story de prête que ce qu’on pense compléter dans 
     - Être prêts pour la planif de sprint
     - Clarifier et comprendre les règles d’affaires et les conditions de satisfaction
     - Valider que nos priorités sont à la bonne place
-
 
 2. **Analyse des besoins**, analyse textuelle → Rencontre avec le client
 3. Préparation du [diagramme de **Concept Fondamentaux** (CFC)](#diagramme-des-concepts-fondamentaux-)
@@ -41,13 +40,14 @@ On veut avoir plus de user story de prête que ce qu’on pense compléter dans 
   - Définir la vélocité moyenne de l'équipe, c'est à dire le nombre de [`story points`](#Étapes-de-la-planif-de-sprint) complétés en moyenne par l'équipe
 
 ## 2. Planif de Sprint
+
 - Présentation au [PO](#product-owner) des premières user stories du backlog, pour confirmer l’approbation des [conditions de satisfaction](#condition-de-satisfaction-cs) par le PO et confirmer leur importance au yeux du client.
 
 - Sélection des user stories à inclure dans le **backlog de sprint**, c’est à dire la liste des user stories qui devront être complétées dans la durée du sprint et leur assignation entres les membres de l’équipe
 
 - Définition de l’objectif du sprint
 
-#### Étapes de la planif de sprint:
+**Étapes de la planif de sprint:**
 
 1. Lire les US une par une en présence du PO
 2. Voter les poids (story points) et argumentations
@@ -88,7 +88,7 @@ Courte rencontre quotidienne entre les membres de l’équipe, faite **debout**,
 - Le PO approuve, commente ou rejette les US du backlog de sprint terminées *(Celles qui ne sont pas acceptées retournent dans le backlog de produit)*
 
 
-> **:bulb: Qu’est-ce qu’on peut définir comme terminé ?**
+> **💡 Qu’est-ce qu’on peut définir comme terminé ?**
 - Pour un sprint : Terminé à la date de fin de sprint défini
 - Pour une User-Story : Lorsqu’elle a été complètement programmée et testée
 - Pour une tâche : Lorsque la tâche est complète à 100%
@@ -114,7 +114,7 @@ Courte rencontre quotidienne entre les membres de l’équipe, faite **debout**,
 
 - **On ne devrait pas faire de nouveau développement dans le sprint de release**
 
-#### Tests à affaire avant la release (au minimum) :
+**Tests à affaire avant la release (au minimum) :**
   - Tests de regression
     - Est-ce que ce qui fonctionnais fonctionne toujours ?
   - Tests d'intégration
@@ -122,7 +122,7 @@ Courte rencontre quotidienne entre les membres de l’équipe, faite **debout**,
   - Tests de charge
     - Le système peut-il supporter la quantité de données potentielle et le nombre de personnes qui utiliserons l’application en même temps ?
     
-:bulb: Voir la [section sur les tests](#tests-du-produit)
+💡 Voir la [section sur les tests](#tests-du-produit)
 
 ----------
 
@@ -133,12 +133,12 @@ Courte rencontre quotidienne entre les membres de l’équipe, faite **debout**,
 Équipe composée de 5-9 membres multifonctionnels
 
 
-  #### Rôle de l’équipe scrum
+  **Rôle de l’équipe scrum**
   - Doit répondre des décisions
   - Tous les membres doivent assister à toutes les activités
   - Elle est auto-organisée sur une base volontaire(qqun se porte volontaire pour faire une tâche)
 
-    #### Qualités de l’équipe scrum
+    **Qualités de l’équipe scrum**
     - Intensément collaborative
     - Constructive dans sa critique
     - Créative et innovatrice
@@ -159,7 +159,7 @@ Courte rencontre quotidienne entre les membres de l’équipe, faite **debout**,
 - Fait le suivi des accomplissements
 - Oriente les discussions vers les objectifs
 
-    #### Qualités
+    **Qualités**
     - PR, Leader positif
     - Gardien du processus
     - Retirer les blocages
@@ -183,7 +183,7 @@ Courte rencontre quotidienne entre les membres de l’équipe, faite **debout**,
 - Obtient l’information des utilisateurs et des parties prenantes
 - Accepte ou rejette les travaux et change au besoin les priorités
 
-    #### Qualités
+    **Qualités**
     - Très bon communicateur
     - Expert dans son domaine d'affaires.
     - Facilité à visualiser des idées et concepts
@@ -217,7 +217,7 @@ Ce sont les parties prenantes sont l'utilisateur final ou l'utilisateur cible po
 
 # Une User-Story, c'est quoi ?
 
-#### Definition :
+**Definition :**
 Une tâche de haut niveau sur un plan de projet, un bien livrable de la méthodologie Agile, une exigence fonctionnelle de l’application à développer
 
 
@@ -233,7 +233,7 @@ Une bonne User Story (US) devrait respecter les critères de l'acronyme INVEST:
 | **Short**          | *Une US devrait pouvoir être intégrée à un sprint de 2 personnes de 2 à 3 semaines* |
 | **Testable**       | *Il doit y avoir une ou plusieurs conditions de satisfactions qui nous permettrons de tester le fonctionnement du code, et pour voir si les règles de métiers sont respectées* |
 
-:bulb: **Lorsque le récit utilisateur ne respecte pas les conditions INVEST, c’est souvent parce que cette dernière peut-être fractionnée en plusieurs plus petite US**
+💡 **Lorsque le récit utilisateur ne respecte pas les conditions INVEST, c’est souvent parce que cette dernière peut-être fractionnée en plusieurs plus petite US**
 
 ## Une US est composée de trois élément (3C)
 
@@ -326,7 +326,8 @@ Le glossaire devrait au moins contenir tous les concepts présents dans le diagr
 
 Un acteur peut être un **utilisateurs humains directs** (avec des 👐 ) ou une **application externe**
 
-#### Les différents niveaux des acteurs :
+**Les différents niveaux des acteurs :**
+
 | Niveau | Exemple |
 | --- | --- |
 | **Niveau stratégique** : Intéragit rarement avec les données, reçoit des rapports pour l’analyse et la gestion de l’entreprise      | Haute direction       |
