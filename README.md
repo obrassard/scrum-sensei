@@ -35,10 +35,9 @@ Vous touverez dans ce guide, la description des différentes activités d'un cyc
     9.3 [La liste des acteurs et des intervenants](#-liste-des-acteurs-et-des-intervenants-)<br>
 10. [Les 12 principes AGILES](#les-12-principes-agiles-)<br>
 11. [Les tests du produit](#tests-du-produit)<br>
+12. [Donations](https://paypal.me/obrassard)
 
 ***
-
-## :coffee: Tu as passé ton examen d'analyse d'applications grâce à ScrumSensei ? [Ça vaut bien un petit café non](https://paypal.me/obrassard) ? :smile:
 
 ##  1. Sprint 0 / Grooming : préparation du backlog de produit
 
