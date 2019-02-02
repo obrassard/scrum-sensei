@@ -10,21 +10,21 @@ Vous touverez dans ce guide, la description des différentes activités d'un cyc
 
 1. [Sprint 0, Grooming et Backlog de produit](#1-sprint-0--grooming--préparation-du-backlog-de-produit)<br>
 2. [Planif de Sprint](#2-planif-de-sprint)<br>
-3. [Les Sprint](#3-sprint-)<br>
+3. [Les Sprints](#3-sprint-)<br>
     3.1 [La mêlée quotidienne](#31-la-mêlée-quotidienne-à-chaque-jour-pendant-les-sprints)<br>
 4. [La revue de Sprint](#4-revue-de-sprint)<br>
 5. [La rétrospective de Sprint](#5-rétrospective-de-sprint)<br>
 6. [Le sprint de release](#6-sprint-de-release)<br>
 7. [Les rôles au sein du procéssus SCRUM](#rôles-au-sein-du-procéssus-scrum)<br>
-    7.1 [L'équipe Scrum](#équipe-scrum)<br>
-    7.2 [Les Scrum Master](#scrum-master)<br>
+    7.1 [L'équipe SCRUM](#équipe-scrum)<br>
+    7.2 [Le scrum master](#scrum-master)<br>
     7.3 [Le product owner](#product-owner)<br>
-    7.4 [Les stakeHolders](#stakeholders-parties-prenantes)<br>
-    7.5 [LEs business owners](#business-owners)<br>
-8. [Les User Stories](#une-user-story-cest-quoi-)<br>
+    7.4 [Les stakeholders](#stakeholders-parties-prenantes)<br>
+    7.5 [Les business owners](#business-owners)<br>
+8. [Les user stories](#une-user-story-cest-quoi-)<br>
     8.1 [INVEST](#vérification-invest)<br>
     8.2 [Les critères de validité](#une-us-est-composée-de-trois-élément-3c)<br>
-    8.3 [La priorité des Users-Stories](#priorité-des-users-stories)<br>
+    8.3 [Priorité des user stories](#priorité-des-users-stories)<br>
     8.4 [Le conditions de satisfaction](#condition-de-satisfaction-cs)<br>
     8.5 [Les sous-tâches](#%EF%B8%8F-définition-des-tâches)<br>
 9. [Les biens livrables SCRUM](#biens-livrables-atréfacts-de-la-méthode-scrum)<br>
