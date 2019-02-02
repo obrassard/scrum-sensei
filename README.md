@@ -6,6 +6,8 @@ Scrum est une méthode [agile](#les-12-principes-agiles-) dédiée à la « gest
 
 Vous touverez dans ce guide, la description des différentes activités d'un cycle.
 
+## :coffee: Tu as passé ton examen d'analyse d'applications grâce à ScrumSensei ?<br>[Ça vaut bien un petit café non](https://paypal.me/obrassard) ?! :smile:
+
 ## Table des matières
 
 1. [Sprint 0, Grooming et Backlog de produit](#1-sprint-0--grooming--préparation-du-backlog-de-produit)<br>
@@ -36,7 +38,7 @@ Vous touverez dans ce guide, la description des différentes activités d'un cyc
 
 ***
 
-## :coffee: Tu as passé ton examen d'analyse d'appliation grâce à ScrumSensei ?<br> [Ça vaut bien un petit café non](https://paypal.me/obrassard) ? :smile:
+## :coffee: Tu as passé ton examen d'analyse d'applications grâce à ScrumSensei ? [Ça vaut bien un petit café non](https://paypal.me/obrassard) ? :smile:
 
 ##  1. Sprint 0 / Grooming : préparation du backlog de produit
 
@@ -475,4 +477,4 @@ Le **behavior-driven development** (ou **BDD**) est une [méthode agile](https:/
 
 ### (╯°□°)╯︵ ┻━┻
 
-## :coffee: Tu as passé ton examen d'analyse d'appliation grâce à ScrumSensei ?<br> [Ça vaut bien un petit café non](https://paypal.me/obrassard) ? :smile:
+## :coffee: Tu as passé ton examen d'analyse d'applications grâce à ScrumSensei ?<br>[Ça vaut bien un petit café non](https://paypal.me/obrassard) ?! :smile:
